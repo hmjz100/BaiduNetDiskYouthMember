@@ -24,7 +24,7 @@
 ## 功能
 
 以下是本脚本界面的一部分，多数功能展示于此。  
-![设置界面](https://scriptcat.org/api/v2/resource/image/Bhc9si6OkzsnXzaS)
+![设置界面](https://scriptcat.org/api/v2/resource/image/lyaHCKvjcLgqaO86)
 
 ## 说明
 
@@ -45,3 +45,4 @@
 这个脚本只有一个人在修改\~如果喜欢的话还请留个 [星标](https://github.com/hmjz100/BaiduNetDiskYouthMember/issues) 和 [好评](https://scriptcat.org/zh-CN/script-show-page/2236/comment) 哦\~  
 
 * 如有 bug 等问题请前往 Github 发 [议题反馈](https://github.com/hmjz100/BaiduNetDiskYouthMember/issues)
+
