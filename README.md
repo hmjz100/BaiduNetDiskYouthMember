@@ -19,7 +19,7 @@
 选择合适的源，点击链接即可安装
 
 ### 百度网盘会员青春版
-- Github 国际: [hmjz100/BaiduNetDiskYouthMember/百度网盘会员青春版.user.js](https://github.com/hmjz100/BaiduNetDiskYouthMember/raw/main/百度网盘会员青春版.user.js)
+- Github 国际: [hmjz100/BaiduNetDiskYouthMember/（改）百度网盘会员青春版.user.js](https://github.com/hmjz100/BaiduNetDiskYouthMember/raw/main/（改）百度网盘会员青春版.user.js)
 - 脚本猫 国内: [hmjz100/2236/（改）百度网盘会员青春版.user.js](https://scriptcat.org/scripts/code/2236/%EF%BC%88%E6%94%B9%EF%BC%89%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%BC%9A%E5%91%98%E9%9D%92%E6%98%A5%E7%89%88.user.js)
 
 ## 功能
