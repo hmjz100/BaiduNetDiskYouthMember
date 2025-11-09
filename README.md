@@ -25,7 +25,8 @@
 ## 功能
 
 以下是本脚本界面的一部分，多数功能展示于此。  
-![设置界面](https://github.com/user-attachments/assets/d844b68c-c496-4231-9011-9aefcffa9be3)
+![设置界面](https://github.com/user-attachments/assets/6b8c29be-3b40-4837-912d-ca20ba7da23b)
+
 
 ## 说明及致谢
 
