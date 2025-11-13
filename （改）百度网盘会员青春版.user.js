@@ -914,7 +914,6 @@
 				if (has(res.data.svip_expire_time) && has(user.endtime)) res.data.svip_expire_time = user.endtime;
 				if (has(res.data.v10_expire_time) && has(user.endtime)) res.data.v10_expire_time = user.endtime;
 				if (has(res.data.v10_id) && has(user.vip_id)) res.data.v10_id = user.vip_id;
-				console.log(user)
 				if (has(res.data.v10_rank) && has(user.vip_id)) {
 					let idStr = String(user.vip_id);
 					let six = idStr.match(/\d{6}/)?.[0];
